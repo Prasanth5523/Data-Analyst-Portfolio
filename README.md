@@ -19,26 +19,38 @@ I enjoy working with real-world datasets, identifying trends, creating dashboard
 - 📊 Power BI — Data Transformation, Data Modeling, DAX & Interactive Dashboards
 - 📈 Data Visualization — KPI Cards, Charts, Slicers & Interactive Reports
 
-📂 Featured Projects
+📂 Featured Project
 
 🍕 Pizza Sales Analysis — Power BI
 
-An interactive Power BI dashboard designed to analyze pizza sales performance.
+An interactive Power BI dashboard designed to analyze pizza sales performance and identify useful business insights.
 
-Key Areas:
+Key KPIs:
 
-- Total Revenue
-- Total Orders
-- Total Pizza Sold
-- Average Order Value
-- Sales by Category
+- 💰 Total Revenue
+- 🧾 Total Orders
+- 🍕 Total Pizza Sold
+- 📊 Average Order Value
+
+Analysis Includes:
+
+- Sales by Pizza Category
 - Sales by Pizza Size
 - Daily & Monthly Sales Trends
+- Top & Bottom Performing Pizzas
 - Interactive Filters and Slicers
 
 Tools: Power BI | DAX | Excel/CSV
 
----
+📸 Dashboard Preview
+
+Power BI Dashboard — Page 1
+
+overview.png
+
+Power BI Dashboard — Page 2
+
+Product analysis.png
 
 🎯 Career Goal
 
